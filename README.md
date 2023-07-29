@@ -1,6 +1,6 @@
 # NODE-JS-ASSESSMENT : 
 
-# STEPS TO RUN THE APP : 
+Steps to run the app  : 
 
 1 ->  To install npm by run the command
        npm install
